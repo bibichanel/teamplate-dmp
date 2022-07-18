@@ -36,4 +36,5 @@ sudo docker-compose up -d
 ```
 
 #### Phpmyadmin: http://127.0.0.1:8080
+*Username & password: root*
 #### Web-application: http://127.0.0.1:8000
