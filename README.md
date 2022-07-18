@@ -29,7 +29,11 @@ pip install -r requirements.txt
 ```
 django-admin manage.py startapp [name]
 ```
+## Database connection when developing
+- Go to mysql directory and excute
+```
+sudo docker-compose up -d
+```
+
 #### Phpmyadmin: http://127.0.0.1:8080
 #### Web-application: http://127.0.0.1:8000
-
-## **GOOD LUCK TO YOU**
