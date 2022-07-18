@@ -1,5 +1,5 @@
 
-#Connect web applicate with framework django python, mysql server and mysql client as phpmyadmin
+# Connect web applicate with framework django python, mysql server and mysql client as phpmyadmin
 
 ## Getting Started
 Using docker-compose.yml file
@@ -14,5 +14,5 @@ The **storage** directory will be created and mounted /var/lib/mysql directory i
 sudo docker-compose down
 sudo rm -rf storage
 ```
-####Phpmyadmin: http://127.0.0.1:8080
-####Web-application: http://127.0.0.1:8000
+#### Phpmyadmin: http://127.0.0.1:8080
+#### Web-application: http://127.0.0.1:8000
